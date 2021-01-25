@@ -21,7 +21,7 @@ body {
 .language-desc{
     color: black;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:25px;
 }
 
@@ -38,7 +38,7 @@ body {
     color: black;
     text-align: center;
     margin-top: 291px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:15px;
 }
 
@@ -130,7 +130,7 @@ body {
 .language-title{
     color: black;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:40px;
     padding-bottom: 20px;
     padding-top: 10px;
@@ -184,7 +184,7 @@ body {
 .gmodheader{
     text-align: center;
     color:white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:32px;
 }
 
@@ -208,7 +208,7 @@ body {
 .achroname{
     color: white;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:45px;
     margin-top: 1.25%;
 }
@@ -216,7 +216,7 @@ body {
 .aboutme{
     color: black;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:45px;
     padding-top: 60px;
     padding-bottom: 40px;
@@ -225,7 +225,7 @@ body {
 .infoaboutme{
     color:black;
     text-align: left;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:25px;
     margin-top: 1.25%;
 }
@@ -233,7 +233,7 @@ body {
 .gmodhours{
     color: #009EFF;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:45px;
     margin-top: 1.25%;
 }
@@ -241,7 +241,7 @@ body {
 .w-centered{
     text-align: center;
     color:white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:32px;
 }
 
@@ -268,7 +268,7 @@ body {
 .gmod-work-title{
     text-align: left;
     color:white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:32px;
     margin-left: 10%;
     margin-top: 8%;
@@ -297,7 +297,7 @@ body {
 .gmod-work-info{
     text-align: left;
     color:white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size:20px;
     margin-left: 10%;
 }
